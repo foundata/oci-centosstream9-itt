@@ -1,6 +1,6 @@
 # OCI Image: CentOS Stream 9, Integration Test Target (ITT)
 
-[CentOS Stream 9](https://www.centos.org/stream9/) for integration testing.
+[CentOS Stream 9](https://www.centos.org/stream9/) (Linux) for integration testing.
 
 Main features of the [OCI](https://opencontainers.org/) image:
 
